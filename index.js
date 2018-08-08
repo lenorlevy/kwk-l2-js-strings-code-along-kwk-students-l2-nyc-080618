@@ -3,4 +3,4 @@ const currentUser="Lenor Levy" ;
 
 const welcomeMessage = "Welcome to Klossybook, " + currentUser + "!";
 
-let excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + currentUser + "!";
+var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + currentUser + "!";
