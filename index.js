@@ -3,6 +3,6 @@ const currentUser="Lenor Levy" ;
 
 const welcomeMessage = "Welcome to Klossybook, " + currentUser + "!";
 
-const excitedWelcomeMessage = welcomeMessage.UpperCase
+const excitedWelcomeMessage = welcomeMessage.toUpperCase
 
 const shortGreeting = "Welcome, " + "!";
